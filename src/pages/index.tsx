@@ -56,7 +56,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Reality Check</title>
         <meta name="description" content="Fact or fiction?" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%2210 0 100 100%22><text y=%22.90em%22 font-size=%2290%22>📚</text></svg>" />
       </Head>
       <main className="flex min-h-screen flex-col items-center justify-center">
         <div className="flex w-[100%]">

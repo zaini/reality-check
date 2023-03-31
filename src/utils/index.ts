@@ -112,10 +112,6 @@ export const fictionalFacts: Fact[] = [
         "imageTag": "coral"
     },
     {
-        "text": "Lightning only strikes the same place once.",
-        "imageTag": "lightning"
-    },
-    {
         "text": "Bamboo is the primary food source for elephants.",
         "imageTag": "bamboo"
     },
@@ -126,5 +122,41 @@ export const fictionalFacts: Fact[] = [
     {
         "text": "Some plants are capable of producing pure gold.",
         "imageTag": "gold"
+    },
+    {
+        "text": "Eating carrots dramatically improves your night vision.",
+        "imageTag": "carrots"
+    },
+    {
+        "text": "Each human has a unique tongue print, similar to fingerprints.",
+        "imageTag": "tongue"
+    },
+    {
+        "text": "You can see the Great Wall of China from space with the naked eye.",
+        "imageTag": "great-wall-china-space"
+    },
+    {
+        "text": "You need to wait 24 hours before filing a missing person report.",
+        "imageTag": "police"
+    },
+    {
+        "text": "Reading in dim light causes permanent damage to your eyes.",
+        "imageTag": "reading"
+    },
+    {
+        "text": "Dogs can only see in black and white.",
+        "imageTag": "dog"
+    },
+    {
+        "text": "Chameleons change their color to blend in with their surroundings.",
+        "imageTag": "chameleon"
+    },
+    {
+        "text": "Lightning never strikes the same place twice.",
+        "imageTag": "lightning"
+    },
+    {
+        "text": "Alcohol kills brain cells.",
+        "imageTag": "alcohol"
     }
 ]
