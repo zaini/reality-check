@@ -43,6 +43,46 @@ export const facts: Fact[] = [
     {
         "text": "Water freezes at 32 degrees Fahrenheit (0 degrees Celsius).",
         "imageTag": "ice"
+    },
+    {
+        "text": "More than 70% of Earth's surface is covered by water.",
+        "imageTag": "earth"
+    },
+    {
+        "text": "Adult cats have 30 teeth while adult dogs have 42.",
+        "imageTag": "pets"
+    },
+    {
+        "text": "Rainforests are home to more than half of the world's species.",
+        "imageTag": "rainforest"
+    },
+    {
+        "text": "Astronauts can grow up to two inches taller in space.",
+        "imageTag": "astronaut"
+    },
+    {
+        "text": "Polar bears have black skin under their white fur.",
+        "imageTag": "polar-bear"
+    },
+    {
+        "text": "Cheetahs can reach speeds of up to 70 miles per hour.",
+        "imageTag": "cheetah"
+    },
+    {
+        "text": "Louis Braille, who developed the Braille system, was only 15 when he started working on the system.",
+        "imageTag": "braille"
+    },
+    {
+        "text": "The oldest known musical instrument is a 40,000-year-old flute, made from a bird's bone.",
+        "imageTag": "flute"
+    },
+    {
+        "text": "Octopuses have three hearts and blue blood.",
+        "imageTag": "octopus"
+    },
+    {
+        "text": "Potatoes were the first food to be grown in space.",
+        "imageTag": "potato"
     }
 ]
 
